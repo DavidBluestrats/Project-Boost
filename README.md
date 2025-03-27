@@ -1,2 +1,2 @@
 # Project-Boost
-Simple 2.5D game where you are a ship and go through levels avoiding obstacles.
+To try the game out, unzip the Game file. Steer the ship with WASD, boost with Spacebar.
